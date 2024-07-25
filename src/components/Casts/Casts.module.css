@@ -1,0 +1,21 @@
+.subtitle {
+  font-family: 'sans-serif', 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+  font-size: 30px;
+  text-align: center;
+  margin: 20px;
+  color: white;
+}
+
+.castList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.pic {
+  width: 350px;
+  height: auto;
+}

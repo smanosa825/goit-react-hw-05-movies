@@ -1,0 +1,25 @@
+.movieList {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+
+.movieName {
+  border: 1px rgb(255, 255, 255);
+  padding: 10px;
+}
+
+.movie {
+  font-family: 'sans-serif', 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+  font-weight: 500;
+  font-size: 25px;
+  color: white;
+}
+
+.movie:hover,
+.movie:focus,
+.movie:active {
+  color: rgb(116, 105, 105);
+}

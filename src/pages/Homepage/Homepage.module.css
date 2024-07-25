@@ -1,0 +1,12 @@
+.mainPage {
+  margin: 30px;
+}
+
+.title {
+  text-align: center;
+  padding-bottom: 20px;
+  font-weight: 800;
+  color: #ff0000;
+  font-size: 60px;
+  cursor: default;
+}

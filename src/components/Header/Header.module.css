@@ -1,0 +1,25 @@
+.header {
+  text-align: right;
+  padding: 20px 30px;
+  font-weight: 700;
+  font-size: 25px;
+  font-family: 'sans-serif', 'Comic Neue', cursive;
+}
+
+.navList {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  align-items: center;
+}
+
+.navList a {
+  color: white;
+}
+
+.navList a.active {
+  padding: 5px 10px;
+  background-color: rgb(215, 210, 210);
+  border-radius: 5px;
+  color: black;
+}
